@@ -1,5 +1,6 @@
-# Learn GitHub
 
-This is a throwaway repo used to learn about working with Git and GitHub.
+#LEARN GIT HUB
 
-Adding another sentence now. 
+I mean really. . . 
+
+How many times do I need to do this
